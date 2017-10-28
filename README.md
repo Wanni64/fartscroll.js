@@ -2,7 +2,7 @@
 
 Everyone farts. And now your web pages can too.
 
-_Now with 100% less jQuery! (Sorry, jQuery, we still love you)_
+_Now with 100% less jQuery! (Sorry, jQuery, we still ~~don't~~ love you)_
 
 ### Setup:
 
